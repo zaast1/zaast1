@@ -8,6 +8,7 @@
 </div>
 
 ###
+<h2>Socials</h2>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://www.instagram.com/gabrielmzs__/"  />
@@ -21,7 +22,7 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms1anV6MGdkYjQ0cWV5cnB2MHB3MGp2YzVlbXhxMnphMTdvazdvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
-
+<h2>Skills</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
