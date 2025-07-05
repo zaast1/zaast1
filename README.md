@@ -2,7 +2,6 @@
 
 ###
 
-<h6 align="left">
 ### About Me<br>I'm a software engineering student passionate about backend, hacking and data structures. I love turning ideas into reality through code and I'm always looking for new challenges and learning experiences.</h6>
 
 ###
