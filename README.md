@@ -20,7 +20,7 @@ I'm a software engineering student passionate about backend, hacking and data st
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/gabrielmzs__/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
