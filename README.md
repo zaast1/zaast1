@@ -36,16 +36,8 @@ I'm a software engineering student passionate about backend, hacking and data st
 
 <br clear="both">
 
-<img align="left" height="500" src="https://i.pinimg.com/originals/e2/38/17/e23817f641839282ad7fefa60c0ea996.gif"  />
-
 ###
 
 <br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31b24bdjpwzfmd7iqttehoi32ooq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31b24bdjpwzfmd7iqttehoi32ooq&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
