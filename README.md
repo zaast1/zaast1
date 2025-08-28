@@ -24,7 +24,7 @@ I'm a software engineering student passionate about backend, hacking and data st
   <a href="https://www.instagram.com/gabrielmzs__/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="gabrielrl.menezes@gmail.com" target="_blank">
+  <a href="gabrielrl.menezes@protonmain.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-menezes-16b48336b/" target="_blank">
